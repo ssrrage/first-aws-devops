@@ -1,0 +1,34 @@
+Win Xp
+Win 7
+Win 10 general porpus
+Win 10 sap abap
+Win 10 sap hana
+Win 10 microsoft diyanamics 365
+Win 10 oracle bisiness sute
+Win 10 VS Studio
+Win 10 Azure & Exchange
+Win Server 2019
+Win Server 2022
+
+Ubantu
+Kali
+Cent
+Debian
+Fedora Workstation & Server
+Opensuse
+Redhat
+Tails
+Oracle Linux
+Mac Os
+Nitrux
+Zorin OS
+Arch
+Raspberry
+Mint
+Paret
+
+
+Ubuntu Name:ubuntu Pass:ubuntu
+Cent OS RootPass:centos User:centos Pass:centos
+
+GitHub Token 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
